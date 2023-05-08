@@ -1,3 +1,5 @@
+//Display N prime numbers
+
 #include<bits/stdc++.h>
 using namespace std;
 
